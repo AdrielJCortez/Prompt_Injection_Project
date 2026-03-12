@@ -5,7 +5,7 @@ client = OpenAI()
 
 SECRET = "ILoveCSC321"
 MODE = "vulnerable" # guarded, vulnerable
-MAX_CHARS = 800  # pick 500-2000; 800 is a good demo number
+MAX_CHARS = 800
 SYSTEM_PROMPT_VULNERABLE = """
 You are 321Bank AI for a security project.
 

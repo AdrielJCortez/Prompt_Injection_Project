@@ -1,5 +1,29 @@
 This is a report about my Prompt Injection Project. Citations and overview will be avaliable in this Report.
 
+If you did want to run this project you will need your own OPENAI_API_KEY:
+
+To run this project:
+
+1. Install dependencies:
+   pip install openai
+
+2. Set your OpenAI API key:
+
+   Windows:
+   setx OPENAI_API_KEY "your-key-here"
+
+   Mac/Linux:
+   export OPENAI_API_KEY="your-key-here"
+
+3. Run:
+   python Prompt.py
+
+How to use this project:
+At the top of the program in Prompt.py you will see a value called MODE, there are two modes for this project. One being
+"vulnerable", when ran we are able to explore attack via injection is this vulnerable AI state. The other being "guarded"
+where these attacks will have preventions from attacking our AI model. Feel free to switch between the two and explore
+on your own.
+
 In this project I demonstrate prompt injection attacks, along with these attacks I will demonstrate and explain secuirty 
 topics I used for the attacks. I will also explain how to safeguard such attacks. First of all I decided to use OpenAi's 
 model in python as the specific topic I would like to demonstrate is prompt injection attack on AI as AI is found everywhere 
