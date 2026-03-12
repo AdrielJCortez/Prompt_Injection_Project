@@ -38,4 +38,12 @@ Since developers may want a content experience for their users, once again their
 can lead to vulnerability such as users changing/viewing sensitve data. A way to fix this is to ensure most user's cannot change
 internal data.
 
+Citations:
+https://developers.openai.com/api/docs/guides/text
+CSC 321 Lectures
+    -Module 1 Computer Security Concepts
+    -Module 4 User Authentication
+    -Module 5 Access Control
+    -Module 6 Malicious Software
+
 
