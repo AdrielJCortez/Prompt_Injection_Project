@@ -40,6 +40,8 @@ internal data.
 
 Citations:
 https://developers.openai.com/api/docs/guides/text
+https://platform.openai.com/login
+https://medium.com/@max.petrusenko/mcp-vs-cli-why-context-bloat-is-killing-ai-agent-performance-b4f421325da4
 CSC 321 Lectures
     -Module 1 Computer Security Concepts
     -Module 4 User Authentication
